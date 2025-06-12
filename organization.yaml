@@ -16,6 +16,8 @@ kind: User
 metadata:
   name: jose.afilho
   description: Jose de Araujo Filho
+  annotations:
+    microsoft.com/email: jose.afilho@solarbr.com.br
 spec:
   profile:
     # Intentional no displayName for testing
