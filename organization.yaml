@@ -20,7 +20,7 @@ spec:
   type: team
   profile:
     displayName: Janus Authors
-  members: []
+  children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
