@@ -14,7 +14,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: jose.afilho@solarbr.com.br
+  name: jose.afilho
   description: Jose de Araujo Filho
 spec:
   profile:
