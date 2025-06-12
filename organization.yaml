@@ -12,6 +12,17 @@ spec:
   children: []
 ---
 apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: janus-authors
+  description: Authors of Janus plugins
+spec:
+  type: team
+  profile:
+    displayName: Janus Authors
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: jose.afilho
